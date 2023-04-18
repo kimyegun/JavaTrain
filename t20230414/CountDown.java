@@ -18,5 +18,6 @@ public static void main(String[] args) {
 		while (x >=0)
 			System.out.println(x--);
 			System.out.println("x의 값이" + x + "이 됐습니다.");
+	
 	}
 }

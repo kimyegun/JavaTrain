@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>1123123</name>
+	<comment></comment>
+	<projects>
+		<project>Javatrain</project>
+		<project>Printfexample</project>
+		<project>PrintfExample1</project>
+		<project>ThisJava</project>
+		<project>VariableInitializationExample</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
